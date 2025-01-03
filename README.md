@@ -1,6 +1,6 @@
 # jobs
 
-This template should help get you started developing with Vue 3 in Vite.
+A Job board platform for Developers. Frontend Development with VUEJS and TailwindCSS. This is for training and learning frontend development with VueJS
 
 ## Recommended IDE Setup
 
